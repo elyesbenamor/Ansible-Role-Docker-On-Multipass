@@ -59,7 +59,7 @@ Many users of this role wish to also use Ansible to then _build_ Docker images a
 
   roles:
     # use pip galaxy module role
-    - geerlingguy.docker
+    - elyess.docker
 ```
 
 ## Dependencies
