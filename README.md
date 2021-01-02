@@ -59,7 +59,7 @@ Many users of this role wish to also use Ansible to then _build_ Docker images a
 
   roles:
     # use pip galaxy module role
-    - elyess.docker
+    - elyesbenamor.docker
 ```
 
 ## Dependencies
@@ -71,7 +71,7 @@ None.
 ```yaml
 - hosts: all
   roles:
-    - elyess.docker
+    - elyesbenamor.docker
 ```
 
 ## License
